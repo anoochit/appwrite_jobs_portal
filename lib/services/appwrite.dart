@@ -2,7 +2,6 @@ import 'dart:developer';
 
 import 'package:appwrite/appwrite.dart';
 import 'package:appwrite/models.dart';
-import 'package:uuid/uuid.dart';
 
 class AppwriteService {
   late Client _client;
