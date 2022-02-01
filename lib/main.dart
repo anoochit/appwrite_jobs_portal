@@ -63,6 +63,9 @@ class MyApp extends StatelessWidget {
             borderRadius: BorderRadius.circular(16),
           ),
         ),
+        appBarTheme: AppBarTheme(
+          backgroundColor: Colors.black,
+        ),
       ),
       initialRoute: '/signin',
       routes: {

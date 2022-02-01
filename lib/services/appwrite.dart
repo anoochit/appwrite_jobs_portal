@@ -77,7 +77,7 @@ class AppwriteService {
         "location": "Mountain View, CA",
         "description": "Developing software for Google's cloud infrastructure",
         "link": "https://www.google.com",
-        "logo": "https://i.pinimg.com/564x/d1/e4/54/d1e45465c740e95c624e3bcce0ca11f6.jpg"
+        "logo": "https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-09-512.png"
       },
     );
 
